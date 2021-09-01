@@ -1,0 +1,72 @@
+.demo-block-image {
+	height: 120px;
+	background: #00ffff;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.demo-block-nav {
+	height: 120px;
+	background: #00cccc;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.demo-block-contatti {
+	height: 120px;
+	background: #339900;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.demo-block-principale {
+	height: 120px;
+	background: #9966FF;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.demo-block {
+	height: 120px;
+	background: #facbdf;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.center {
+  text-align: center;
+}
+.demo-block-white {
+	height: 4px;
+	background: #ffffff;
+	padding: 2px;
+	border: 0px solid #000;
+} 
+.demo-block-inner {
+	height: 70px;
+	background: #aeffaa;
+	padding: 5px;
+	border: 1px solid #000;
+}
+.container-image {
+  height: 80px;
+  position: relative;
+  font-family: Arial;
+}
+.text-block {
+  position: absolute;
+  bottom: 240px;
+  right: 840px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.nav-link {
+    color: black;
+    background-color: white;
+    border-radius: 5px; 
+    border: 1px solid #000000;
+    margin: 2px;
+}
+.nav-link:hover {
+    color: magenta;
+    border-radius: 5px; 
+    border: 1px solid #000000;
+    margin: 2px;
+}
